@@ -1,5 +1,5 @@
-<h1 align="center">⭐FolioCustoms⭐</h1>
-<p>We do folios. Choose from a template or submit your design to our contact links given below.</p>
+<h1>About us</h1>
+<p>FolioCustoms is a startup idea providing portfolios to Programmers, Artists and Freelancers. We aim to provide portfolios of the premium grade in costs never seen before. We have been working on our presets for the past 1.5 years to refine it to be at par with our standards. Want to be a part of our journey? Come get yourself a portfolio @ Rs.599.</p>
 <!---
 FolioCustoms/FolioCustoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div class="services">
   <h2>Our Services</h2>
   <ul>
-    <li>Portfolios</li>
+    <li><a href="https://foliocustoms.netlify.app/">Portfolios</a></li>
     <li>Custom Projects</li>
     <li>Institutional Websites</li>
   </ul>
