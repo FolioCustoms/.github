@@ -1,5 +1,5 @@
 <h1>About us</h1>
-<p>FolioCustoms is a startup idea providing quality customised portfolios to Programmers, Artists and Freelancers. We aim to provide premium grade,customised portfolios at costs never seen before. We have been working on our presets for the past 1.5 years to refine it to be at par with the industrial standards. Want to get ahead of the curve? Come get yourself a portfolio with rates as low as @ $5.</p>
+<p>FolioCustoms is a startup idea providing quality customised portfolios to Programmers, Artists and Freelancers. We aim to provide premium grade,customised portfolios at costs never seen before. We have been working on our presets for the past 1.5 years to refine it to be at par with the industrial standards. Want to get ahead of the curve? Come get yourself a portfolio with rates as low as $5.</p>
 <!---
 FolioCustoms/FolioCustoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
