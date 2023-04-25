@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div class="services">
   <h2>Our Services</h2>
   <ul>
-    <li><a href="https://foliocustoms.netlify.app/">Portfolios</a></li>
+    <li><a href="https://foliocustoms-kiztbz.netlify.app/">Portfolios</a></li>
     <li>Custom Projects</li>
     <li>Institutional Websites</li>
   </ul>
