@@ -1,40 +1,45 @@
-<h1>About us</h1>
-<p>FolioCustoms is a digital startup idea providing quality customised portfolios to Students, Programmers, Artists and Freelancers. We aim to provide premium grade,customised portfolios at costs never seen before. We have been working on our presets for the past 1.5 years to refine it to be at par with the industrial standards. Want to get ahead of the curve? Come get yourself a portfolio with rates as low as $50.</p>
+# About Us
+
+Welcome to FolioCustoms, your go-to digital startup for high-quality custom portfolios tailored to students, programmers, artists, and freelancers. Our mission is to provide premium customized portfolios at unprecedented affordable rates. With over 1.5 years of dedicated work, we've meticulously refined our presets to meet industry standards. Ready to stay ahead of the competition? Get yourself a stunning portfolio starting at just $50.
+
 <!---
 FolioCustoms/FolioCustoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <br>
 <br>
-<div class="services">
-  <h2>Our Services</h2>
-  <ul>
-    <li><a href="https://foliocustoms-kiztbz.netlify.app/">Portfolios</a></li>
-    <li>Custom Projects</li>
-    <li>Institutional Websites</li>
-  </ul>
-  
-  <h2>Under Development</h2>
-  <ul>
-    <li>E-Commerce site</li>
-    <li>Web Applications</li>
-    <li>Beat Store</li>
-  </ul>
-</div>
+
+## Our Services
+
+Explore our range of services designed to elevate your online presence:
+
+- [Portfolios](https://foliocustoms-kiztbz.netlify.app/)
+- Custom Projects
+- Institutional Websites
+
+### Under Development
+
+We're constantly innovating and working on new offerings:
+
+- E-Commerce Site
+- Web Applications
+- Beat Store
+
 <div id="header">
-  <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif"m width="100"/>
+  <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="100"/>
 </div>
+
 <br>
 <br>
 
-<h2>Stats</h2>
+## Stats
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kiztbz&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kiztbz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
@@ -47,3 +52,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiztbz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Improve this readme script for GitHub. Links have been preserved for your convenience.
