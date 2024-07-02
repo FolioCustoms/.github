@@ -1,6 +1,6 @@
 # About Us
 
-Welcome to FolioCustoms, your go-to digital startup for high-quality custom portfolios tailored to students, programmers, artists, and freelancers. Our mission is to provide premium customized portfolios at unprecedented affordable rates. With over 1.5 years of dedicated work, we've meticulously refined our presets to meet industry standards. Ready to stay ahead of the competition? Get yourself a stunning portfolio starting at just $50.
+Welcome to FolioCustoms, your go-to business consultant and web designer. We help you understand the flow of your websites, social media handles, and business strategy by analyzing your competitors and the market. With over 3 years of industry experience, we’ve helped our clients choose what’s best for them and their business. Are you ready to hit the market with a new approach?
 
 <!---
 FolioCustoms/FolioCustoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,19 @@ FolioCustoms/FolioCustoms is a ✨ special ✨ repository because its `README.md
 
 ## Our Services
 
-Explore our range of services designed to elevate your online presence:
+Here's the list of the services that we generally offer to our clients:
 
-- [Portfolios](https://foliocustoms-kiztbz.netlify.app/)
-- Custom Projects
-- Institutional Websites
+- Web development
+- Custom softwares
+- Branding
+- Video editing
+- Graphic design
+- Illustrations
+- General Consultancy
+- Marketing
+- Copyrighting
+- Web design
+- UI/UX
 
 
 <div id="header">
