@@ -21,13 +21,6 @@ Explore our range of services designed to elevate your online presence:
 - Custom Projects
 - Institutional Websites
 
-### Under Development
-
-We're constantly innovating and working on new offerings:
-
-- E-Commerce Site
-- Web Applications
-- Beat Store
 
 <div id="header">
   <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="100"/>
